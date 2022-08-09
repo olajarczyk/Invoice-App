@@ -1,0 +1,50 @@
+
+body{
+    font-family: Consolas;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 16px;
+}
+
+td,th{
+    border: none;
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid white;
+    font-size: 16px;
+}
+.my-table{
+    text-align: right;
+    border-bottom: none;
+}
+
+.my-table>th{
+    border-bottom: none;
+}
+
+.card-header{
+    background-color: #141d63;
+}
+
+.card-header h4{
+    margin-top: 5px;
+    font-size: 20px;
+    color: #ffd700;
+}
+
+.card {
+border: 0px solid white;
+background-color: #909096;
+color: white;
+}
+
+.second{
+    margin-left: -24px;
+    margin-right: -24px;
+}
+
+.bg-dark{
+    background-color: #1d1d1d;
+}

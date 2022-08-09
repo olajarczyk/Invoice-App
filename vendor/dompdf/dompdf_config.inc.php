@@ -1,0 +1,1 @@
+require 'https://localhost/AddProduct/style.css';
