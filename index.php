@@ -19,7 +19,7 @@
         <a href ="add_client.php" target="_blank"><button type = "button" id = "b2" class = "small_btn"><img class = "img" src="client.png" alt="client" style="width:100%; background-color: grey;"><br><span style="font-family: Consolas; font-size: 30px; color:white;background-color: grey; ">Kontrahenci</button></a>
         </div>
         <div class="grid-item">
-        <a href ="add_client.php" target="_blank"><button type = "button" id = "b3" class = "small_btn"><img class = "img" src="firma.png" alt="firma" style="width:100%; background-color: grey;"><span style="font-family: Consolas; font-size: 30px; color:white; background-color: grey;">Moja firma</button></a>
+        <a href ="add_job.php" target="_blank"><button type = "button" id = "b3" class = "small_btn"><img class = "img" src="firma.png" alt="firma" style="width:100%; background-color: grey;"><span style="font-family: Consolas; font-size: 30px; color:white; background-color: grey;">Moja firma</button></a>
         </div>
         <div class="grid-item">
         <a href ="add_client.php" target="_blank"><button type = "button" id = "b4" class = "small_btn"><img class = "img" src="invoice.png" alt="invoice" style="width:100%; background-color: grey;"><span style="font-family: Consolas; font-size: 30px; color:white; background-color: grey;">Wystaw fakturę</button></a>
