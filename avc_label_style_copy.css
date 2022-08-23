@@ -1,0 +1,29 @@
+
+body{
+    font-family: Consolas;
+    background-color: rgb(18, 14, 38);
+}
+.card img {
+    height: 250px;
+}
+
+.card-body{
+    height: 100px;
+    padding-top: 30px;
+}
+
+.card-title{
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.card {
+    background-color: #1a1336;
+    color: whitesmoke;
+}
+
+
+
+
+
+

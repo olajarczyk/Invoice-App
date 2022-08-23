@@ -12,8 +12,7 @@
     <div id = "first">
       <div class = "grid-container">
         <div class="grid-item">
-        <a href ="add_product.php" target="_blank">
-          <button type = "button" id = "b1" class = "small_btn" ><img class = "img" src="product.png" alt="product" style="width:100%; background-color: grey;"><br><span style="font-family: Consolas; font-size: 30px; color:white; background-color: grey;">Produkty</button></a>
+        <a href ="add_product.php" target="_blank"><button type = "button" id = "b1" class = "small_btn" ><img class = "img" src="product.png" alt="product" style="width:100%; background-color: grey;"><br><span style="font-family: Consolas; font-size: 30px; color:white; background-color: grey;">Produkty</button></a>
         </div>
         <div class="grid-item">
         <a href ="add_client.php" target="_blank"><button type = "button" id = "b2" class = "small_btn"><img class = "img" src="client.png" alt="client" style="width:100%; background-color: grey;"><br><span style="font-family: Consolas; font-size: 30px; color:white;background-color: grey; ">Kontrahenci</button></a>

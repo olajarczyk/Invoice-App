@@ -1,7 +1,10 @@
 
 body{
     font-family: Consolas;
+    background-color: rgb(18, 14, 38);
 }
+
+
 table{
     border-collapse: collapse;
     width: 100%;
@@ -25,19 +28,19 @@ td,th{
 }
 
 .card-header{
-    background-color: #141d63;
+    background-color: #1a1336;
 }
 
 .card-header h4{
     margin-top: 5px;
     font-size: 20px;
-    color: #ffd700;
+    color: rgb(6, 147, 227);
 }
 
 .card {
-border: 0px solid white;
-background-color: #909096;
-color: white;
+border: 2px solid whitesmoke;
+background-color: hsl(252, 39%, 43%);
+color: whitesmoke;
 }
 
 .second{
@@ -45,6 +48,3 @@ color: white;
     margin-right: -24px;
 }
 
-.bg-dark{
-    background-color: #1d1d1d;
-}
